@@ -1,4 +1,8 @@
 Repository (Repo)
+Branch
+Conflict (xung dot)
+
+
 
 -git init
 -git status : trạng thái của file
