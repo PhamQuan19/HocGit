@@ -8,3 +8,6 @@ Repository (Repo)
 -git log : xem lại commit đã lưu
 -git log --oneline xenm lại commit đã lưu
 -git checkout id :quay lại commit có id 
+-git checkout {master} : quay lai commit hien tai
+-git branch
+-git checkout -b {branch name}
