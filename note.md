@@ -11,3 +11,5 @@ Repository (Repo)
 -git checkout {master} : quay lai commit hien tai
 -git branch
 -git checkout -b {branch name} tao 1 brach moi
+-git merge {branch name} gộp 2 nhánh làm 1
+-git branch -d {branch name} xoa branch
