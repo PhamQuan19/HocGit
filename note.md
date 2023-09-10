@@ -10,4 +10,4 @@ Repository (Repo)
 -git checkout id :quay lại commit có id 
 -git checkout {master} : quay lai commit hien tai
 -git branch
--git checkout -b {branch name}
+-git checkout -b {branch name} tao 1 brach moi
