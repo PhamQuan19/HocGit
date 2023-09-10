@@ -1,7 +1,7 @@
 Repository (Repo)
 Branch
 Conflict (xung dot)
-
+local
 
 
 -git init
@@ -17,3 +17,4 @@ Conflict (xung dot)
 -git checkout -b {branch name} tao 1 brach moi
 -git merge {branch name} gộp 2 nhánh làm 1
 -git branch -d {branch name} xoa branch
+- git push : đẩy code lên github
